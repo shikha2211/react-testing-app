@@ -1,3 +1,5 @@
+//Example of a Custom Hook Form 
+
 import { useState } from "react";
 
 export default function useForm(initials = {}){
